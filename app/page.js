@@ -52,7 +52,7 @@ export default function Home() {
       {/* features */}
       <FeaturesSection></FeaturesSection>
       {/* pricing */}
-      <Pricing/>
+      <Pricing />
       <section className="py-20 text-center">
         <div className="max-w-4xl mx-auto px-4">
           <h2 className="text-5xl font-bold mb-6">

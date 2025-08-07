@@ -35,7 +35,7 @@ const Pricing = () => {
     },
   ];
   return (
-    <div className="py-20 px-4">
+    <div className="py-20 px-4" id='pricing'>
       <div className=" max-w-6xl mx-auto">
         <div className="text-center mb-12">
           <h2 className="text-5xl font-bold bg-gradient-to-r from-blue-400 to-purple-600 bg-clip-text text-transparent pb-8">
